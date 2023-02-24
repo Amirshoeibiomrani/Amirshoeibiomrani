@@ -1,6 +1,6 @@
 My name is Amir Shoeibi Omrani(ARSO)
 ==================================================
-Full Stack Web Developer & Graphic Designer
+Front End Developer & Graphic Designer
 ==================================================
 - 🔭 I’m currently working on Youtube.
 - 🖥️  See my portfolio at [arsoacademy.xyz](https://arsoacademy.xyz)
