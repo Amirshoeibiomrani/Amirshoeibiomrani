@@ -13,4 +13,4 @@ On this page, you will find all of the code snippets that I share on my youtube 
 [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@ProgrammingWithARSO)
                 
 #### 💻 Technologies that I use
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg) ![TailwindCSS](./assets/tailwind.svg) ![React](./assets/react.svg)
