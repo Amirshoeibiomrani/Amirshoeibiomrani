@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm AMIR SHOEIBI OMRANI</h1>
 <h3 align="center">A passionate Front End developer</h3>
-<img align="right" alt="Coding..." width="400" src="https://nl.pinterest.com/pin/661255157777177486/">
-
-- 👯 I’m looking to collaborate on **any projects**
+<img align="right" alt="Coding..." width="400" src="https://pin.it/34Tpb2d0e">
 
 - 🤝 I’m looking for help with **interesting projects**
 
@@ -23,7 +21,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arsodev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arsodev" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirshoeibiomrani&show_icons=true&locale=en&layout=compact" alt="amirshoeibiomrani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirshoeibiomrani&" alt="amirshoeibiomrani" /></p>
