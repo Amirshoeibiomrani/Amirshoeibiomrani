@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMIR SHOEIBI OMRANI</h1>
-<h3 align="center">A passionate Front End developer</h3>
+<h3 align="left">A passionate Front End developer</h3>
 
 - 🤝 I’m looking for help with **interesting projects**
 
@@ -14,7 +14,7 @@
 <a href="https://instagram.com/programming_with_arso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programming_with_arso" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@programmingwitharso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@programmingwitharso" height="30" width="40" /></a>
 </p>
-<h3 align="left">Support:</h3>
+<h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arsodev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arsodev" /></a></p><br><be>
 
 <h3 align="left">Languages and Tools:</h3>
