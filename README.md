@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AMIR SHOEIBI OMRANI</h1>
 <h3 align="center">A passionate Front End developer</h3>
-<img align="right" alt="Coding..." width="400" src="https://gist.github.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4#file-coding-gif">
+<img align="right" alt="Coding..." width="400" src="https://nl.pinterest.com/pin/661255157777177486/">
 
 - 👯 I’m looking to collaborate on **any projects**
 
