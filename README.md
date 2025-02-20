@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/amirshoeibiomrani-arso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirshoeibiomrani-arso" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13958319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13958319" height="30" width="40" /></a>
 <a href="https://instagram.com/programming_with_arso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programming_with_arso" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@programmingwitharso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@programmingwitharso" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@programmingwitharso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@programmingwitharso" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
