@@ -2,7 +2,7 @@
  
 - 🤝 I’m looking for help with **interesting projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-kappa-ten-42.vercel.app](https://portfolio-kappa-ten-42.vercel.app)
+- 👨‍💻 All of my projects are available at https://portfolio2025-dun.vercel.app
 
 - 📫 How to reach me **dra.m.rdeveloper1995@gmail.com**
 
