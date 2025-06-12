@@ -2,7 +2,7 @@
  
 - 🤝 I’m looking for help with **interesting projects**
 
-- 👨‍💻 All of my projects are available at <a href='[(https://portfolio2025-chgn02bgj-amir-shoeibi-omranis-projects.vercel.app)]'>PORTFOLIO</a>
+- 👨‍💻 All of my projects are available at <a href='https://portfolio2025-chgn02bgj-amir-shoeibi-omranis-projects.vercel.app'>PORTFOLIO</a>
 
 - 📫 How to reach me **dra.m.rdeveloper1995@gmail.com**
 
